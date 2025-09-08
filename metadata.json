@@ -1,0 +1,5 @@
+{
+  "name": "AI Playground: NLP, Vision, Robotics",
+  "description": "An interactive web application demonstrating the capabilities of Gemini API in Natural Language Processing, Image Recognition, and simulated Robotics command processing.",
+  "requestFramePermissions": []
+}
